@@ -1,4 +1,4 @@
-# bike_sales_excel_dashbaor# Excel Bike Sales Dashboard
+# bike_sales_excel_dashbaord
 
 ## Project Overview
 This project demonstrates an interactive dashboard built in Microsoft Excel to analyze bike sales data.
