@@ -21,7 +21,7 @@ This project demonstrates an interactive dashboard built in Microsoft Excel to a
 - Demographics affect trends
 
 ## Dashboard Preview
-![Dashboard](bike_dashbaord_excel.png)
+![Dashboard](bike_dashboard_excel.png)
 
 ## ℹ️ Note
 The dataset and Excel file are not included in this repository.
